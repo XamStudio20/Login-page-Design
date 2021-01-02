@@ -1,0 +1,15 @@
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\bin\Debug\netstandard2.0\Demo2.deps.json
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\bin\Debug\netstandard2.0\Demo2.dll
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\bin\Debug\netstandard2.0\ref\Demo2.dll
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\bin\Debug\netstandard2.0\Demo2.pdb
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.csprojAssemblyReference.cache
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.AssemblyInfoInputs.cache
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.AssemblyInfo.cs
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.csproj.CoreCompileInputs.cache
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.dll
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\ref\Demo2.dll
+C:\Users\Santosh Gupta\source\repos\Demo2\Demo2\obj\Debug\netstandard2.0\Demo2.pdb
